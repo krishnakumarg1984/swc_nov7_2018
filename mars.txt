@@ -3,3 +3,4 @@ The two moons may be a problem for Wolfman.
 But the mummy will appreciate the lack of humidity
 Venus followed by Earth (those pesky Earthlings) followed by Mars! 
 This is an additional comment about the Red Planet
+I am going to definitely have the ill-considered change in this file
