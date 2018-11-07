@@ -1,3 +1,6 @@
 *.jpg
 *.png
 *.svg
+
+reference_papers/
+images_dir/
